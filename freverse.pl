@@ -24,3 +24,5 @@ foreach my $line (reverse @lines) {
 close OUTPUT;
 
 # this is a new comment
+# this is 2nd comment
+#
